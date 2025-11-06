@@ -1,0 +1,4 @@
+ID | Title | Author | Year | Qty
+-----------------------------------------
+01 | b1 | a1 | 2008 | 2
+220 | The World of Science | Maredo | 2006 | 10
