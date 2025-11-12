@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/GitHub/LibraryManagement/src/librarymanagement/Book.java</file>
-            <file>file:/D:/GitHub/LibraryManagement/src/librarymanagement/LibraryManagement.java</file>
-            <file>file:/D:/GitHub/LibraryManagement/src/librarymanagement/Library.java</file>
-            <file>file:/D:/GitHub/LibraryManagement/src/librarymanagement/Users.java</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/src/librarymanagement/Item.java</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/src/librarymanagement/Book.java</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/src/librarymanagement/LibraryManagement.java</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/data/books.txt</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/src/librarymanagement/Users.java</file>
+            <file>file:/C:/Users/User/Documents/DIP215%20-%20Aug%202025/Assignment-1/LibraryManagement/src/librarymanagement/Library.java</file>
         </group>
     </open-files>
 </project-private>

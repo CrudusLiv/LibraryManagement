@@ -72,7 +72,7 @@ public class Users {
         return borrowedBooks;
     }
 
-    // Methods to borrow and return books (optional improvement)
+    // Methods to borrow and return books (optional improvement).
     public void borrowBook(Book book) {
         borrowedBooks.add(book);
     }
