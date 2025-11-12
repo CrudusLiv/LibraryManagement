@@ -130,7 +130,7 @@ public class LibraryManagement {
             System.out.println("3. Exit Program");
             System.out.print("Choose: ");
             String choice = sc.nextLine().trim();
-
+            
             switch (choice) {
                 case "1": return login(sc);
                 case "2": register(sc); break;

@@ -20,13 +20,13 @@ public class Library {
         if (index < 0 || index >= count) return null;
         return books[index];
     }
-
+    // TO add book
     public boolean add(Book b) {
         if (count >= books.length) return false;
         books[count++] = b;
         return true;
     }
-
+    //For Updating the Books
     public boolean update(String id, Book updated) {
         for (int i = 0; i < count; i++) {
             if (books[i].getId().equals(id)) {
@@ -36,7 +36,7 @@ public class Library {
         }
         return false;
     }
-
+    // To delete the book list
     public boolean delete(String id) {
         for (int i = 0; i < count; i++) {
             if (books[i].getId().equals(id)) {
@@ -48,12 +48,12 @@ public class Library {
         }
         return false;
     }
-
+    // To search the book by the id number
     public Book searchById(String id) {
         for (int i = 0; i < count; i++) if (books[i].getId().equals(id)) return books[i];
         return null;
     }
-
+    // Listing all saved books in the Library
     public Book[] listAll() {
         Book[] result = new Book[count];
         for (int i = 0; i < count; i++) result[i] = books[i];
